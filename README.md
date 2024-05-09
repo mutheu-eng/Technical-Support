@@ -326,4 +326,22 @@ ORDER BY AVG(`Survey results`) DESC;
 SELECT ROUND(AVG(TIMESTAMPDIFF(MINUTE, created_time,First_response_time)),0) AS average_first_response_time
 FROM technicalsupport2;
 ```
+
+# VISUALIZATIONS
+![_                                               Ticket Count By Weekend](https://github.com/mutheu-eng/Technical-Support/assets/121784849/8bd666db-7bb9-4cef-b493-dbcbde50dfca)
+
+
+![_                                       Ticket Count by Weekdays](https://github.com/mutheu-eng/Technical-Support/assets/121784849/7e535dbd-37b7-40c2-974d-840396c3fd46)
+
+
+![_                                                       Ticket Count By Hour](https://github.com/mutheu-eng/Technical-Support/assets/121784849/2ad549e0-56d8-4014-bb6e-0f1ddf455001)
+
+
+![_                                      Ticket Count By Month](https://github.com/mutheu-eng/Technical-Support/assets/121784849/ee2eb699-38ab-4425-86e8-a76c00aa2556)
+
+
+
+![_                                             Ticket Count By days](https://github.com/mutheu-eng/Technical-Support/assets/121784849/a4d711de-4e92-4a0e-b4b1-4b3e3d3b9592)
+
+
 ## RECOMMENDATIONS
