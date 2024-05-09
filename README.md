@@ -31,7 +31,7 @@ Analyzing the functioning of technical support.
 
 •	Check how quickly tickets move through the resolution process.
 
-#DATA CLEANING
+ # DATA CLEANING
 ```SQL
 SELECT *
 FROM technicalsupport2
